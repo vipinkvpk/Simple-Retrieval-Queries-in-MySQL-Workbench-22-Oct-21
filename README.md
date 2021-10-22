@@ -1,0 +1,1 @@
+# Simple-Retrieval-Queries-in-MySQL-Workbench-22-Oct-21
